@@ -1,0 +1,16 @@
+{
+    "gmail": {
+        "email": "",
+        "app_password": ""
+    },
+    "messages": [
+        {
+            "subject": "Promosi Menarik!",
+            "body": "Halo, kami memiliki penawaran menarik untuk Anda."
+        },
+        {
+            "subject": "Ini contoh pesan kedua",
+            "body": "ini contoh pesan kedua"
+        }
+    ]
+}
