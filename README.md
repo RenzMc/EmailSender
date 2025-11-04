@@ -20,8 +20,8 @@ EmailSender adalah tools Python yang dirancang untuk membantu pengiriman email p
 
 ```bash
 # Clone repository
-git clone https://github.com/RenzMc/emailsender.git
-cd emailsender
+git clone https://github.com/RenzMc/EmailSender.git
+cd EmailSender
 
 # Install dependencies
 pip install -r requirements.txt
